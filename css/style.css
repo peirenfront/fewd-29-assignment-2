@@ -33,7 +33,6 @@ h2{
     font-size:24px;
     font-weight:900;
 }
-
 h3{
     font-size:20px;
     color:#033048;
@@ -74,7 +73,6 @@ footer h6{
 .container{
     text-align:center;
 }
-
 .container blockquote{
     background-image:url(../images/testimonial_bg.jpg);
     background-size:cover;
